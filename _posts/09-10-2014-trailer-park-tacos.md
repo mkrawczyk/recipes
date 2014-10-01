@@ -8,6 +8,8 @@ categories: main
 
 
 ## Ingredients
-- Shell
+- Pancakes (no crepes)
 - Real meat product
 - Simulated corn
+- Maple syrup
+- Regret
